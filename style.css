@@ -1,0 +1,27 @@
+body{
+    padding: 0px;
+margin: 0px;
+scroll-behavior: smooth;
+}
+/* Student Details */
+.student_details{
+width: 50%;
+margin: auto;
+}
+.student_details>h1{
+    text-align: center;
+}
+.form{
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+header>h1{
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
