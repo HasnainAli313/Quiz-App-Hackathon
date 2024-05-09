@@ -1,8 +1,8 @@
-let ansSelectedValue = document.querySelector("#ansSelecter1");
-let ansSelectedValue2 = document.querySelector("#ansSelecter2");
-let ansSelectedValue3 = document.querySelector("#ansSelecter3");
-let ansSelectedValue4 = document.querySelector("#ansSelecter4");
-let ansSelectedValue5 = document.querySelector("#ansSelecter5");
+let ansSelectedValue = document.querySelector("#ansSelector1");
+let ansSelectedValue2 = document.querySelector("#ansSelector2");
+let ansSelectedValue3 = document.querySelector("#ansSelector3");
+let ansSelectedValue4 = document.querySelector("#ansSelector4");
+let ansSelectedValue5 = document.querySelector("#ansSelector5");
 
 let submitBtn = document.querySelector("#submAns");
 let marks = 0

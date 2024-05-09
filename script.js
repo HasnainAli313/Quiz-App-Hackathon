@@ -1,4 +1,4 @@
-const submitButton = document.querySelector("#subm");
+const submitButton = document.querySelector("#submit");
 
     submitButton.addEventListener('click', (event) => {
         event.preventDefault();
