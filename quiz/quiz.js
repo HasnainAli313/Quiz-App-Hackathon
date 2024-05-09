@@ -7,19 +7,19 @@ let ansSelectedValue5 = document.querySelector("#ansSelecter5");
 let submitBtn = document.querySelector("#submAns");
 let marks = 0
 submitBtn.addEventListener('click', () => {
-    if (ansSelectedValue.value === "It refers to the current object.") {
+    if (ansSelectedValue.value === "paris") {
         marks++
     } 
-    if (ansSelectedValue2.value === "float") {
+    if (ansSelectedValue2.value === "markup") {
         marks++
     }
-    if(ansSelectedValue3.value === "border-collapse"){
+    if(ansSelectedValue3.value === "germany"){
         marks++
     }
-    if(ansSelectedValue4.value === "myFunction: function() {}"){
+    if(ansSelectedValue4.value === "react"){
         marks++
     }
-if(ansSelectedValue5.value === "script"){
+if(ansSelectedValue5.value === "JavaScript"){
     marks++
 }
 
